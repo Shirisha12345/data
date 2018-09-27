@@ -1,0 +1,383 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" contents="cartoons, cartoon network, cartoon characters, cartoon shows, cartoon channels, cartoon videos">
+    <meta name="description" content="Cartoons">
+    <meta name="veiwport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<title>
+    Cartoons
+</title>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark mb-3 fixed-top">
+            <section class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="img/logo.png" alt="cartoon logo">
+                </a>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <article class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link text-uppercase" href="#">home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-uppercase" href="#">genre</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-uppercase" href="#">channels</a>
+                        </li class="nav-item">
+                        <li class="nav-item">
+                            <a class="nav-link text-uppercase" href="#">about</a>
+                        </li>
+                    </ul>
+                </article>
+            </section>
+        </nav>
+    </header>
+    <section class="d-flex flex-column mar ">
+        <section class="p-4">
+            <article id="demo" class="carousel slide" data-ride="carousel">
+
+                <!-- Indicators -->
+                <ul class="carousel-indicators">
+                    <li data-target="#demo" data-slide-to="0" class="active"></li>
+                    <li data-target="#demo" data-slide-to="1"></li>
+                    <li data-target="#demo" data-slide-to="2"></li>
+                </ul>
+
+                <!-- The slideshow -->
+                <article class="carousel-inner">
+                    <article class="carousel-item active">
+                        <img src="img/img.png" alt="All cartoon characters">
+                    </article>
+                    <article class="carousel-item">
+                        <img src="img/8a02ec811f33b7c6afcba48c8bdd406c08d954e6_00.png" alt="Disney channel animated shows">
+                    </article>
+                    <article class="carousel-item">
+                        <img src="img/Best Animated Movies for Kids.png" alt="Animated movies">
+                    </article>
+                </article>
+
+                <!-- Left and right controls -->
+                <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </a>
+                <a class="carousel-control-next" href="#demo" data-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </a>
+
+            </article>
+            <!--<img src="img/img.jpg" alt="Cartoon picture" width=100%/>-->
+            <p class="pt-4 text-justify">A cartoon shows a bearded man with a red bow tie holding numerous items. He holds the hat from Dr. Seuss's "The
+                Cat in the Hat" and balances a fishbowl on his left index finger. Example of a modern cartoon. The text was
+                excerpted by cartoon chaist Greg Williams from the Wikipedia article on Dr. Seuss A cartoon is a type of
+                illustration, possibly animated, typically in a non-realistic or semi-realistic style. The specific meaning
+                has evolved over time, but the modern usage usually refers to either: an image or series of images intended
+                for satire, caricature, or humor; or a motion picture that relies on a sequence of illustrations for its
+                animation. Someone who creates cartoons in the first sense is called a cartoonist,[1] and in the second sense
+                they are usually called an animator. The concept originated in the Middle Ages, and first described a preparatory
+                drawing for a piece of art, such as a painting, fresco, tapestry, or stained glass window. In the 19th century,
+                it came to refer – ironically at first – to humorous illustrations in magazines and newspapers. In the early
+                20th century, it began to refer to animated films which resembled print cartoons.</p>
+            </section>
+
+
+        </section>
+   
+        <section class="px-4 py-0 item-hl">
+            <h2 class="text-danger">Famous Characters</h2>
+        </section>
+    <section class="d-flex flex-sm-row flex-column justify-content-center">
+        <article class="p-4">
+            <h3>
+                <a href="www.mrbean.com/">Mr.Bean</a>
+            </h3>
+            <img src="img/images (3).png" alt="Mr.Bean" width="100%" height="40%">
+            <br>
+            <p class="text-justify">Mr. Bean is a British sitcom created by Rowan Atkinson and Richard Curtis, produced by Tiger Aspect Productions,
+                and starring Atkinson as the title character. The sitcom consisted of 15 episodes that were co-written by
+                Atkinson, alongside Curtis and Robin Driscoll; for the pilot.
+            </p>
+        </article>
+        <article class="p-4">
+            <h3>
+                <a href="https://en.wikipedia.org/wiki/Doraemon">Doraemon</a>
+            </h3>
+            <img src="img/download.png" alt="Doraemon" width="100%" height="40%">
+            <br>
+            <p class="text-justify">Doraemon (Japanese: ドラえもん) is a Japanese manga series written and illustrated by Fujiko F. Fujio. The series
+                has also been adapted into a successful anime series and media franchise. The story revolves around a robotic
+                cat named Doraemon.
+
+            </p>
+        </article>
+
+        <article class="p-4">
+            <h3>
+                <a href="https://en.wikipedia.org/wiki/Doraemon">Tom&Jerry</a>
+            </h3>
+            <img src="img/downloads.png" alt="Tom&Jerry" width="100%" height="40%">
+
+            <br>
+            <p class="text-justify">Tom and Jerry is an American animated series of short films created in 1940 by William Hanna and Joseph Barbera.
+                It centers on a rivalry between its two title characters, Tom, a cat, and Jerry, a mouse, and many recurring
+                characters, based around slapstick comedy.</p>
+            </article>
+        </section>
+
+    <section class="d-flex flex-sm-row flex-column justify-content-start ">
+        <article class="px-4 py-0">
+            <h2 class="text-danger pb-0">Popular Shows</h2>
+        </article>
+
+    </section>
+    <section class="d-flex flex-sm-row flex-column justify-content-center">
+        <article class="p-4">
+            <h3>
+                <a href="#">Pokemon</a>
+            </h3>
+            <img class="aligncenter size-full wp-image-17456" src="img/images (4).png" alt="pokemon" width="372" height="150" />
+            <br>
+            <p class="text-justify">
+                Pokémon (Japanese: ポケモン Hepburn: Pokemon, Japanese: [pokemoɴ]; English: /ˈpoʊkɪˌmɒn, -ki-, -keɪ-/)[1][2][3] is a media franchise
+                managed by The Pokémon Company, a Japanese consortium between Nintendo, Game Freak, and Creatures.[4] The
+                franchise copyright is shared by all three companies, but Nintendo is the sole owner of the trademark.[5]
+                The franchise was created by Satoshi Tajiri in 1995,[6] and is centered on fictional creatures called "Pokémon",
+                which humans, known as Pokémon Trainers.
+            </p>
+        </article>
+        <article class="p-4">
+            <h3>
+                <a href="#">Looney Tunes</a>
+            </h3>
+            <img src="img/images (1).png" alt="Looney Tunes" width="300" height="150">
+            <br>
+            <p class="text-justify">
+                Looney Tunes is an American animated series of comedy short films produced by Warner Bros. from 1930 to 1969 during the golden
+                age of American animation, alongside its sister series Merrie Melodies.[2] It was known for introducing such
+                famous cartoon characters as Bugs Bunny, Daffy Duck, Porky Pig, Elmer Fudd, Tweety, Sylvester, Granny, Yosemite
+                Sam, Foghorn Leghorn, Marvin the Martian, Pepé Le Pew, Speedy Gonzales, Tasmanian Devil, Road Runner, Wile
+                E. Coyote and many others.
+            </p>
+        </article>
+        <article class="p-4">
+            <h3>
+                <a href="#">Ben 10</a>
+            </h3>
+            <img src="img/images (6).png" alt="Ben 10" width="100%" height="50%">
+            <br>
+            <p class="text-justify">
+                Ben 10 is an animated TV series and media franchise created by Man of Action Studios and produced by Cartoon Network Studios.
+                The franchise revolves around a boy named Ben Tennyson who acquires a watch-like alien device, the Omnitrix,
+                which allows him to transform into ten different alien creatures. The Ben 10 franchise has received wide
+                critical acclaim, winning three Emmy Awards. Worldwide, it has grossed over $4.5 billion in retail sales.[1][2]
+                The franchise consists primarily of five television series and four films.
+            </p>
+        </article>
+    </section>
+    <section class="d-flex flex-sm-row flex-column justify-content-center ">
+        <article class="p-4">
+            <h2 class="text-danger pb-4">Related Videos</h2>
+            <iframe width="450" height="150" src="https://www.youtube.com/embed/xY1FEsAGP74" frameborder="0" allow="autoplay; encrypted-media"
+                allowfullscreen></iframe>
+            <iframe width="450" height="150" src="https://www.youtube.com/embed/VUk3NL-_MSo" frameborder="0" allow="autoplay; encrypted-media"
+                allowfullscreen></iframe>
+        </article>
+        <section class="p-4">
+            <h2 class="text-danger pb-4">See results about</h2>
+            <article>
+                <a href="#">Cartoon Network(Cable channel)</a>
+                <br>
+                <p class="text-justify">Cartoon Network is the best place to play free games and watch full episodes of all your favorite kids TV
+                    shows with apps and online videos!</p>
+                </article>
+            <article>
+                <a href="#">Animated Cartoon</a>
+                <br>
+                <p class="text-justify">An animated cartoon is a film for the cinema, television or computer screen, which is made using...</p>
+            </article>
+            <article>
+                <a href="#">Animated Film(Film format)</a>
+                <p class="text-justify">Animated Films are ones in which individual drawings, paintings, or illustrations are photographed frame
+                    by frame (stop-frame cinematography). Usually, each frame differs slightly from the one preceding it,
+                    giving the illusion of movement when frames are projected in rapid succession at 24 frames per second.
+                    The earliest cinema animation was composed of frame-by-frame, hand-drawn images.</p>
+                </article>
+        </section>
+    </section>
+    <section class="d-flex flex-sm-row flex-column justify-content-start ">
+        <aside class="p-4">
+            <h2 class="text-capitalize mb-4 text-danger">
+                to watch full episodes click here:
+            </h2>
+            <p class="mb-3">
+                <a href="#">
+                    https://www.youtube.com/watch?v=X2PNAZoj_po&vl=en</a>
+            </p>
+            <p class="mb-3">
+                <a href="#">
+                    https://www.cartoonnetwork.com/video/.../lost-in-time-episode.html</a>
+            </p>
+            <p class="mb-3">
+                <a href="#">
+                    https://www.dailymotion.com/video/x4rlhia</a>
+            </p>
+            <p class="mb-3">
+                <a href="#">
+                    https://www.youtube.com/watch?v=Vrxr2xQ3HTA</a>
+            </p>
+            <p class="mb-3">
+                <a href="#">
+                    https://www.youtube.com/watch?v=wuc9nK4grmY</a>
+            </p>
+            <p class="mb-3">
+                <a href="#">
+                    https://www.youtube.com/watch?v=9Q_5rUITGAY</a>
+            </p>
+
+        </aside>
+
+        <article class="p-4">
+            <h2 class="text-capitalize mb-4 text-danger">to know more about us </h2>
+            <article id="exTab3" class="container">
+                <ul class="nav nav-pills list-inline">
+                    <li class="active list-inline-item">
+                        <a href="#1b" data-toggle="tab">
+                            <button type="button" class="btn btn-primary text-capitalize" data-toggle="modal" data-target="#myModal">
+                                form
+                            </button>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#2b" data-toggle="tab">
+                            <button type="button" class="btn btn-success text-capitalize" data-toggle="modal" data-target="#2ndModal">maps</button>
+                        </a>
+                    </li>
+                </ul>
+
+                <article class="tab-content">
+                    <article class="tab-pane active" id="1b">
+                        <article class="modal fade" id="myModal">
+                            <article class="modal-dialog">
+                                <article class="modal-content">
+
+                                    <!-- Modal Header -->
+                                    <article class="modal-header">
+                                        <h4 class="modal-title">Your details</h4>
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    </article>
+
+                                    <!-- Modal body -->
+                                    <article class="modal-body">
+                                        <form>
+                                            <article class="form-group">
+                                                <label for="name">Name</label>
+                                                <input type="text" id="name" class="form-control" placeholder="Enter name">
+                                            </article>
+                                            <article class="form-group">
+                                                <label for="email">Email address</label>
+                                                <input type="email" id="email" class="form-control" placeholder="Enter email">
+                                                <small class="form-text text-muted">Your email will not be shared with anyone</small>
+
+                                            </article>
+                                            <article class="form-group">
+                                                <label for="message"> Your comments about the site</label>
+                                                <textarea id="message" rows="3" class="form-control"></textarea>
+                                            </article>
+                                        </form>
+                                    </article>
+
+                                    <!-- Modal footer -->
+                                    <article class="modal-footer">
+                                        <button type="button" class="btn btn-success" data-dismiss="modal">join</button>
+                                        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                                    </article>
+
+                                </article>
+                            </article>
+                        </article>
+                    </article>
+                    <article class="tab-pane" id="2b">
+                        <article id="contact" class="map">
+
+
+
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.290459490787!2d78.52451359965616!3d17.44580655565269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9bce817a9125%3A0x4e1c255af25b69ea!2sHanumanpet%2C+Malkajgiri%2C+Secunderabad%2C+Telangana+500047!5e0!3m2!1sen!2sin!4v1530012916538"
+                                width="494" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+                            <small>
+                                <a href="https://www.maps.ie/create-google-map/">Google map generator</a>
+                            </small>
+                            </iframe>
+                        </article>
+                    </article>
+                </article>
+            </article>
+        </article>
+
+    </section>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1"
+        crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+
+    <footer class="bg-dark mb-0">
+        <section>
+            <h3 class="text-light">Follow Us On:</h3>
+            <article>
+
+                <a class="pl-3" href="https://www.facebook.com/">
+                    <img class="face" width="40" height="40" src="img/facebook-logo-in-circular-shape_318-60407.png" alt="facebook icon">
+                </a>
+                <a class="pr-3" href="https://twitter.com/Twitter"></a>
+                <img class="twitter" width="40" height="40" src="img/download (1).png" alt="twitter icon">
+                </a>
+                <a class="pr-3" href="https://www.youtube.com/"></a>
+                <img class="you" width="40" height="40" src="img/social-youtube-circle_318-26588.png" alt="youtube icon">
+                </a>
+
+                <a class="pr-3" href="https://www.watsapp.com/"></a>
+                <img class="inst" width="40" height="40" src="img/download (2).png" alt="watsapp icon">
+                </a>
+                <article class="float-right">
+
+                    <p>
+                        <a class="text-light mt-0 p-4" href="#">Help</a>
+                        <a class="text-light mt-0 pr-4" href="#">Send feedback</a>
+                        <a class="text-light mt-0 pr-4" href="#">Terms</a>
+                    </p>
+
+                </article>
+            </article>
+            <br>
+        </section>
+
+
+
+
+        <p class="text-light">© 2018 Copyright. All Rights Reserved | Design by Shirisha</p>
+
+
+    </footer>
+</body>
+
+
+
+</html>
+

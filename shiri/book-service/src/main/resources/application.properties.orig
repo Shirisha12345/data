@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+server.port=8888
+=======
+server.port=8070
+>>>>>>> 19bb728b2ee46299323967e71604dbcea6ec0a84
+spring.data.mongodb.database=booksdb
+spring.data.mongodb.host=localhost
+spring.data.mongodb.password=
+spring.data.mongodb.port=27017
+spring.data.mongodb.uri=mongodb://localhost/booksdb
+spring.data.mongodb.username=
+
+#server.port= 8888
+#spring.application.name=book
+#spring.cloud.config.uri=http://localhost:8891
